@@ -67,4 +67,5 @@ Inventory System
 
 Saving and Loading
 -The save_game() function writes the player stats, inventory, and room states to a file (Dungeon_Game.txt).
--The load_game() function restores the game state from the save file.
+-The load_game() function restores the game state from the save file. Unfortunately saved rooms aren't load properly. Other than that player stats and inventory sucsessfully loads.
+
